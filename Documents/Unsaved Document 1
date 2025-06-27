@@ -1,0 +1,22 @@
+notice: Parsing config file: /home/pd0rk1n/.config/polybar/config.ini
+warn: No monitor specified, using "HDMI1"
+notice: Loading module 'qtile' of type 'custom/script'
+notice: Loading module 'workspaces' of type 'internal/xworkspaces'
+notice: Loading module 'window' of type 'internal/xwindow'
+notice: Loading module 'cpu' of type 'custom/script'
+notice: Loading module 'memory' of type 'custom/script'
+notice: Loading module 'pulseaudio' of type 'internal/pulseaudio'
+notice: pulseaudio: using default sink alsa_output.pci-0000_00_1f.3.analog-stereo
+notice: Loading module 'clock' of type 'internal/date'
+error: Disabling module "clock" (reason: No date or time format specified)
+notice: Loading module 'tray' of type 'internal/tray'
+notice: Loaded 7 modules
+notice: Loaded font "JetBrainsMono Nerd Font:size=10" (name=Droid Sans, offset=0, file=/usr/share/fonts/droid/DroidSans.ttf)
+warn: Systray selection already managed (window=0x1000007)
+warn: Dropping unmatched character '' (U+f028) in '  %volume%%'
+warn: Dropping unmatched character '' (U+f538) in ' 2.2Gi/30Gi'
+warn: Dropping unmatched character '' (U+f028) in '  %volume%%'
+warn: Dropping unmatched character '' (U+f538) in ' 2.2Gi/30Gi'
+warn: Dropping unmatched character '' (U+f028) in '  %volume%%'
+warn: Dropping unmatched character '' (U+f538) in ' 2.2Gi/30Gi'
+warn: Dropping unmatched character '' (U+f028) in '  %volume%%'

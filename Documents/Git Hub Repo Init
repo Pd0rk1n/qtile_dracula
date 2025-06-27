@@ -1,0 +1,13 @@
+
+
+########### Git Hub Repo Init  ##########
+
+
+
+
+git init
+git remote add origin https://github.com/Pd0rk1n/qtile-dracula-setup.git
+git add .
+git commit -m "Initial commit with structure and placeholders"
+git push -u origin main
+

@@ -1,0 +1,7 @@
+
+
+
+
+
+#####   bash <(curl -s https://raw.githubusercontent.com/Pd0rk1n/qtile_dracula/main/bootstrap.sh)    ################
+

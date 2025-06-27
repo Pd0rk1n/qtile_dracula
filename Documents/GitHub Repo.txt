@@ -1,0 +1,34 @@
+
+
+   🌍 2. GitHub Repo
+### You can host all your files at:
+
+🧱 Create a GitHub repo like:
+https://github.com/yourusername/qtile-dracula-setup
+
+## Use this folder structure:
+
+bash
+Copy
+Edit
+qtile/config.py
+polybar/config.ini
+polybar/launch.sh
+polybar/scripts/*.sh
+rofi/config.rasi
+rofi/power-menu.sh
+picom/picom.conf
+variety/variety.conf
+sddm/dracula/theme.conf
+starship/starship.toml
+wallpapers/dracula_wallpaper_1.jpg
+
+
+#####  Then your REPO_URL in the script becomes:
+
+bash
+Copy
+Edit
+
+REPO_URL="https://raw.githubusercontent.com/yourusername/qtile-dracula-setup/main"
+
